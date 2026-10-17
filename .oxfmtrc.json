@@ -4,5 +4,10 @@
   "printWidth": 80,
   "sortImports": true,
   "sortPackageJson": true,
-  "ignorePatterns": [".agents/**", ".claude/**"]
+  "ignorePatterns": [
+    "CHANGELOG.md",
+    ".agents/**",
+    ".claude/**",
+    ".release-please/**"
+  ]
 }
