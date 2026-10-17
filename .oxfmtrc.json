@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "semi": true,
+  "printWidth": 80,
+  "sortImports": true,
+  "sortPackageJson": true,
+  "ignorePatterns": [".agents/**", ".claude/**"]
+}

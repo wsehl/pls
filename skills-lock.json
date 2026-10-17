@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "typescript-best-practices": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "skillPath": "harness/pstack/claude-code/skills/typescript-best-practices/SKILL.md",
+      "computedHash": "155a44ac5f8cc9254dfccf27e6c9c9c6dd964b25bf7cb299c8f9e9c53127efe1"
+    }
+  }
+}
