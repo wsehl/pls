@@ -1,6 +1,6 @@
 {
   "name": "@wsehl/pls",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "See what's listening on your ports",
   "license": "MIT",
   "repository": {
